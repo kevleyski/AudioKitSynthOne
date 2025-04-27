@@ -1571,7 +1571,7 @@
 					};
 					C4D193C31F1187B500FF4FE4 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 9W69ZP8S5F;
+						DevelopmentTeam = Z55DB652JS;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2428,11 +2428,10 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = AudioKitSynthOne/AudioKitSynthOne.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1.4.1;
-				DEVELOPMENT_TEAM = 9W69ZP8S5F;
+				DEVELOPMENT_TEAM = Z55DB652JS;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INFOPLIST_FILE = AudioKitSynthOne/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
@@ -2450,7 +2449,7 @@
 					"$(inherited)",
 					"$(ABLETON_LIB_$(ABLETON_ENABLED))",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.audiokitpro.AudioKitSynthOne;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.AudioKitSynthOne;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -2472,11 +2471,10 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = AudioKitSynthOne/AudioKitSynthOne.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1.4.1;
-				DEVELOPMENT_TEAM = 9W69ZP8S5F;
+				DEVELOPMENT_TEAM = Z55DB652JS;
 				GCC_OPTIMIZATION_LEVEL = fast;
 				INFOPLIST_FILE = AudioKitSynthOne/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
@@ -2494,7 +2492,7 @@
 					"$(inherited)",
 					"$(ABLETON_LIB_$(ABLETON_ENABLED))",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.audiokitpro.AudioKitSynthOne;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.AudioKitSynthOne;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
